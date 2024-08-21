@@ -1,2 +1,1 @@
-# webp-begone
-recursively mass convert webp files into pngs 
+i hate webp files i write script to kill them dead
